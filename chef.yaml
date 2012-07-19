@@ -1,0 +1,4 @@
+url: http://chef.windermere.com:4000
+client_name: deploy_mgr
+key_file: /home/csw/.chef/deploy_mgr.key
+data_bag: deploy
