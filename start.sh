@@ -1,3 +1,3 @@
 #!/bin/sh
-cd /usr/local/deploy_mgr
-ruby /usr/local/deploy_mgr/deploy_mgr.rb 
+cd /srv/deploymgr/current
+ruby /srv/deploymgr/current/deploy_mgr.rb 
